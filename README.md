@@ -6,11 +6,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/otraore26/vulnerability-management-program/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+  
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+  ## RHCSA v10 Linux System Administration Lab Projects (EX200 Preparation)
+
+- **[RHCSA v10 Linux System Administration Lab Projects (EX200 Preparation)](https://github.com/otraore26/RHCSA-v10-System-Administration-Labs-Projects-EX200-Preparation-)
 
 <hr/>
 
