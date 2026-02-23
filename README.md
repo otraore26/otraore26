@@ -2,6 +2,37 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Education
+
+
+| Education                                         | Degree                 |   
+|-----------------------------------------------|----------------------------------------|
+| Marymount University                          |Master of Science in Cybersecurity |
+| University of the District of Columbia |Bachelor of Science in Information Technology |
+| Montgomery College         |                 Associate of Art  in Information Systems |
+
+
+## 📜 Certifications
+
+| Certification | Status | Validity / Notes |
+|----------------|--------|------------------|
+| Microsoft Certified: Identity and Access Administrator (SC-300) | ✅ Earned | Active |
+| CompTIA Security+ | ✅ Earned | Valid through 2028 |
+| CompTIA CySA+ | ✅ Earned | Valid through 2028 |
+| CompTIA A+ | ✅ Earned | Valid through 2028 |
+| Splunk Core Certified User | ✅ Earned | Active |
+| Splunk Core Certified Power User | 🚧 In Progress | — |
+| RHCSA – Red Hat Certified System Administrator | 🚧 In Progress | — |
+| CISA – Certified Information Systems Auditor | 🚧 In Progress | — |
+| CISSP – Certified Information Systems Security Professional | 🚧 In Progress | — |
+
+
+
+
+
+
+
+
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -14,7 +45,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
   ## RHCSA v10 Linux System Administration Lab Projects (EX200 Preparation)
 
-- **[RHCSA v10 Linux System Administration Lab Projects (EX200 Preparation)](https://github.com/otraore26/RHCSA-v10-System-Administration-Labs-Projects-EX200-Preparation-)
+- **[RHCSA v10 Linux System Administration Lab Projects (EX200 Preparation)](https://github.com/otraore26/RHCSA-v10-System-Administration-Labs-Projects-EX200-Preparation-)**
 
 <hr/>
 
