@@ -17,14 +17,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 | Certification | Status | Validity / Notes |
 |----------------|--------|------------------|
 | Microsoft Certified: Identity and Access Administrator (SC-300) | ✅ Earned | Active |
+| Microsoft Certified: Security Operation Analyst Associate (SC-200) | ✅ Earned | Active |
 | CompTIA Security+ | ✅ Earned | Valid through 2028 |
 | CompTIA CySA+ | ✅ Earned | Valid through 2028 |
 | CompTIA A+ | ✅ Earned | Valid through 2028 |
 | Splunk Core Certified User | ✅ Earned | Active |
-| Splunk Core Certified Power User | 🚧 In Progress | — |
-| RHCSA – Red Hat Certified System Administrator | 🚧 In Progress | — |
-| CISA – Certified Information Systems Auditor | 🚧 In Progress | — |
-| CISSP – Certified Information Systems Security Professional | 🚧 In Progress | — |
+
 
 
 
