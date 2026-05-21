@@ -45,6 +45,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[RHCSA v10 Linux System Administration Lab Projects (EX200 Preparation)](https://github.com/otraore26/RHCSA-v10-System-Administration-Labs-Projects-EX200-Preparation-)**
 
+## Windows-Server-2025-Windows-11-Enterprise-Lab
+
+- **[Windows-Server-2025-Windows-11-Enterprise-Lab ](https://github.com/otraore26/Windows-Server-2025-Windows-11-Enterprise-Lab-)**
+
 <hr/>
 
 ## 🤳 Connect With Me
