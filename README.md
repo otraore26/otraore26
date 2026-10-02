@@ -50,7 +50,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Windows-Server-2025-Windows-11-Enterprise-Lab ](https://github.com/otraore26/Windows-Server-2025-Windows-11-Enterprise-Lab-)**
 
 ## Enterprise-SOC-Home-Lab
-- **[Enterprise-SOC-Home-Lab (EX200 Preparation)](https://github.com/otraore26/Enterprise-SOC-Home-Lab-)**
+- **[Enterprise-SOC-Home-Lab](https://github.com/otraore26/Enterprise-SOC-Home-Lab-)**
 
 ## Basic-Employee-Onboarding-AD-RBAC-
 
