@@ -52,6 +52,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Enterprise-SOC-Home-Lab
 - **[Enterprise-SOC-Home-Lab (EX200 Preparation)](https://github.com/otraore26/Enterprise-SOC-Home-Lab-)**
 
+## Basic-Employee-Onboarding-AD-RBAC-
+
+- **[Basic-Employee-Onboarding-AD-RBAC- ](https://github.com/otraore26/Basic-Employee-Onboarding-AD-RBAC-)**
+
 <hr/>
 
 ## 🤳 Connect With Me
